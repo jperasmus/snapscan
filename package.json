@@ -1,0 +1,25 @@
+{
+  "name": "snapscan",
+  "version": "0.1.0",
+  "description": "A NodeJS wrapper for the SnapScan API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jperasmus/snapscan"
+  },
+  "keywords": [
+    "NodeJS",
+    "SnapScan",
+    "Javascript",
+    "REST",
+    "API"
+  ],
+  "author": "JP Erasmus <jperasmus11@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.80.0"
+  }
+}
