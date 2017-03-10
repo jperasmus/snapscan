@@ -167,7 +167,7 @@
     return new Promise((resolve, reject) => {
       request({
         method,
-        url: url || `${this.___baseURL}${path}`,
+        url: url || `${this.__baseURL}/${path}`,
         auth: {
           user: this.__apiKey,
           pass: ''
