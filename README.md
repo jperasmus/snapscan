@@ -43,6 +43,13 @@ snapscan.getQRCode()
   })
 ```
 
+---
+> If this module has saved you some time, consider sponsoring some tattoo money.
+
+![SnapScan code](https://pos.snapscan.io/qr/PXMP7417?format=png&id=npm&snap_code_size=150 "SnapScan Code")
+
+---
+
 ## Supported Methods
 
 Take a look at the [official SnapScan API documentation](http://developer.getsnapscan.com/) for all possible endpoints and parameters. Everything is supported in this API Wrapper.
@@ -161,7 +168,7 @@ This method takes no parameters
 
 #### Example
 ```
-snapscan.cashUp(')
+snapscan.cashUp()
   .then((cashUp) => {
     console.log(cashUp)
     // logs the cashUp object containing the `date` and `reference`
@@ -181,7 +188,7 @@ This method takes no parameters
 
 #### Example
 ```
-snapscan.getCashUps(')
+snapscan.getCashUps()
   .then((cashUps) => {
     console.log(cashUps)
     // logs array of cashUp objects
