@@ -25,7 +25,7 @@
 
     this.__apiKey = apiKey;
     this.__merchant = merchant;
-    this.__baseURL = `https://pos.snapscan.io/${merchant}/api/v1`
+    this.__baseURL = `https://pos.snapscan.io/merchant/api/v1`
     this.__qrCodeBaseURL = 'https://pos.snapscan.io/qr/'
   }
 
