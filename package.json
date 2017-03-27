@@ -1,6 +1,6 @@
 {
   "name": "snapscan",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "A NodeJS wrapper for the SnapScan API",
   "main": "index.js",
   "scripts": {
