@@ -44,9 +44,9 @@ snapscan.getQRCode()
 ```
 
 ---
-> If this module has saved you some time, consider sponsoring some tattoo money.
+> If you feel so inclined, consider sponsoring some tattoo money.
 
-![SnapScan code](https://pos.snapscan.io/qr/PXMP7417?format=png&id=npm&snap_code_size=150 "SnapScan Code")
+![SnapScan code](https://pos.snapscan.io/qr/PXMP7417?format=png&id=npm&amount=0&snap_code_size=150 "SnapScan Code")
 
 ---
 
